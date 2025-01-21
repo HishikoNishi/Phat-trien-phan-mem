@@ -1,1 +1,1 @@
-# Ph-t-tri-n-ph-n-m-m
+# Code chinh de tai ve lam chuc nang
