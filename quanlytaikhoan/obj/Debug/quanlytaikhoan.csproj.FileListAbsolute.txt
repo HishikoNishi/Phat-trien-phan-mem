@@ -1,0 +1,7 @@
+D:\thay quoc\quanlysanpham\obj\Debug\quanlytaikhoan.csproj.AssemblyReference.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlytaikhoan.QuanLyTaiKhoan.resources
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.Properties.Resources.resources
+D:\thay quoc\quanlysanpham\obj\Debug\quanlytaikhoan.csproj.GenerateResource.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlytaikhoan.csproj.CoreCompileInputs.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.exe
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.pdb

@@ -1,0 +1,10 @@
+D:\thay quoc\quanlysanpham\bin\Debug\quanlysanpham.exe.config
+D:\thay quoc\quanlysanpham\bin\Debug\quanlysanpham.exe
+D:\thay quoc\quanlysanpham\bin\Debug\quanlysanpham.pdb
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.csproj.AssemblyReference.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.Form1.resources
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.Properties.Resources.resources
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.csproj.GenerateResource.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.csproj.CoreCompileInputs.cache
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.exe
+D:\thay quoc\quanlysanpham\obj\Debug\quanlysanpham.pdb
