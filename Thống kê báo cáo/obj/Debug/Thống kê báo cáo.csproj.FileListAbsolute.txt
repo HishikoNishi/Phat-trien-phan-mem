@@ -1,0 +1,10 @@
+D:\thay quoc\Thống kê báo cáo\bin\Debug\Thống kê báo cáo.exe.config
+D:\thay quoc\Thống kê báo cáo\bin\Debug\Thống kê báo cáo.exe
+D:\thay quoc\Thống kê báo cáo\bin\Debug\Thống kê báo cáo.pdb
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống kê báo cáo.csproj.AssemblyReference.cache
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống_kê_báo_cáo.Form1.resources
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống_kê_báo_cáo.Properties.Resources.resources
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống kê báo cáo.csproj.GenerateResource.cache
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống kê báo cáo.csproj.CoreCompileInputs.cache
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống kê báo cáo.exe
+D:\thay quoc\Thống kê báo cáo\obj\Debug\Thống kê báo cáo.pdb
