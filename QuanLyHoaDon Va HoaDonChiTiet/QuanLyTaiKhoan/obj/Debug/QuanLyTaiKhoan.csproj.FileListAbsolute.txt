@@ -1,0 +1,10 @@
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe.config
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.exe
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\bin\Debug\QuanLyTaiKhoan.pdb
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.AssemblyReference.cache
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Form1.resources
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.Properties.Resources.resources
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.GenerateResource.cache
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.csproj.CoreCompileInputs.cache
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.exe
+D:\Users\Default\Downloads\NHẬP MÔN KỸ THUẬT PHẦN MỀM\quanly\QuanLyTaiKhoan\QuanLyTaiKhoan\obj\Debug\QuanLyTaiKhoan.pdb
