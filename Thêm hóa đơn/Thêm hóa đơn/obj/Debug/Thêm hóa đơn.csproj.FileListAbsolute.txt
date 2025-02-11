@@ -1,0 +1,10 @@
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\bin\Debug\Thêm hóa đơn.exe.config
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\bin\Debug\Thêm hóa đơn.exe
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\bin\Debug\Thêm hóa đơn.pdb
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm hóa đơn.csproj.AssemblyReference.cache
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm_hóa_đơn.Form1.resources
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm_hóa_đơn.Properties.Resources.resources
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm hóa đơn.csproj.GenerateResource.cache
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm hóa đơn.csproj.CoreCompileInputs.cache
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm hóa đơn.exe
+D:\kỹ thuật phần mềm\Thêm hóa đơn\Thêm hóa đơn\obj\Debug\Thêm hóa đơn.pdb
